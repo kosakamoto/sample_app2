@@ -8,6 +8,7 @@ group :development do
   gem 'sqlite3', '1.3.9'
 end
 
+gem 'sprockets', '2.11.0'
 gem 'sass-rails', '4.0.3'
 gem 'uglifier', '2.5.3'
 gem 'coffee-rails', '4.0.1'
